@@ -6,14 +6,14 @@
 
 ---
 
-## 📋 Descrição
+##  Descrição
 
 Este repositório contém a versão 1 do **sistema de Delivery** desenvolvido para a matéria **Projeto de Sistema**.  
 O projeto implementa um modelo de domínio (delivery) e um modelo de projeto em Java, aplicando o padrão **Chain of Responsibility** para cálculo de descontos na taxa de entrega baseada em regras de negócio (bairro do cliente, tipo de cliente, tipo de item e valor do pedido).
 
 ---
 
-## 🚀 Funcionalidades Principais
+##  Funcionalidades Principais
 
 1. **Cadastro de Cliente**  
    - Armazena nome, telefone, bairro (para cálculo de desconto) e categoria (“Ouro”, “Prata” ou “Bronze”).
